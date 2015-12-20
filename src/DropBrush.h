@@ -26,7 +26,7 @@ private:
     float deathTime;
     
     int historySteps = 15;
-    int subFrames = 8;
+    int subFrames = 80;
 
     float maxSize = 15.0;
 
